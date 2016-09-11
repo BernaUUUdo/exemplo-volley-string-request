@@ -24,7 +24,11 @@ import com.android.volley.toolbox.Volley;
 //3. Criar um gatilho -      btnGetJson.setOnClickListener(new View.OnClickListener() {
 //4. Importar o Volley no gradle
 //5. Adicionar permissões no manifest
-//6.
+//6. Implementar uma String Request
+//6.1 Implementar a resposta com sucesso
+//6.2 Implementar o tratamento de erro
+
+
 
 
 public class GetJsonWithVolleyActivity extends AppCompatActivity {
